@@ -1,3 +1,5 @@
+![](./banner.png)
+---
 # Cybersecurity-Bots (Prompts)
 This is a repository of ChatGPT prompts to initiate different bots supporting cybersecurity professionals in their daily work.
 
