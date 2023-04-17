@@ -1,7 +1,7 @@
 # Cybersecurity-Bots (Prompts)
 This is a repository of ChatGPT prompts to initiate different bots supporting cybersecurity professionals in their daily work.
 
-*Please note:* This repository and the prompts therein are mainly designed to identify potential use cases of tools such as ChatGPT for cybersecurity professionals. Obviously, you should not assume every answer to be correct and use your judgement to challenge ChatGPT's answers.
+*Please note:* This repository and the prompts therein are mainly designed to identify potential use cases for tools such as ChatGPT for cybersecurity professionals. Obviously, you should not assume every answer to be correct and use your judgement to challenge ChatGPT's answers.
 
 ## Development Tracker
 
@@ -18,7 +18,7 @@ This is a repository of ChatGPT prompts to initiate different bots supporting cy
 4. Paste the text into a new conversation with ChatGPT
 5. Use the bot as defined
 
-*Please note:* I would recommend to use the GPT-4 model in ChatGPT as it seems to be less prone to hallucination compared to GPT-3.5.
+*Please note:* I would recommend to use the GPT-4 model in ChatGPT as it seems to be less likely to hallucinate compared to GPT-3.5.
 
 You can always update or modify the bot.
 
